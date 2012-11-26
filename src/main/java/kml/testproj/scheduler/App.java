@@ -23,7 +23,7 @@ import java.util.*;
  */
 public class App extends JFrame{
 
-    private static Logger LOG =  Logger.getLogger(App.class.getName());
+    private static final Logger LOG =  Logger.getLogger(App.class.getName());
 
     /**
      * @param args

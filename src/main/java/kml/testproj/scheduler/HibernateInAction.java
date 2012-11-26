@@ -16,7 +16,7 @@ import org.hibernate.cfg.Configuration;
 
 public class HibernateInAction {
 
-    private static Logger LOG =  Logger.getLogger(HibernateInAction.class.getName());
+    private static final Logger LOG =  Logger.getLogger(HibernateInAction.class.getName());
 
     public HibernateInAction(){
 
